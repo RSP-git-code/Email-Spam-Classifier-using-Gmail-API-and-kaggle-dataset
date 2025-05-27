@@ -22,13 +22,21 @@ A machine learning project to classify emails as **spam** or **ham** using real-
 7. Place `mail_data.csv` (Kaggle dataset) in the same directory.
 8. 
 ##  Requirements
-1 Use jupyter notebook or tensorflow for faster processing
+1. Use jupyter notebook or tensorflow for faster processing
 2. Download required libraries :
    . Numpy: pip install Numpy
    .scikit-learn: pip install scikit-learn
    . Pandas:pip install pandas
    .Google Api :pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 3. Enabled Gmail API with credentials.json file and test subjects email ids
+## Data Sources:
+1. Gmail API documenataion: https://developers.google.com/workspace/gmail/api/guides
+2. Kaggle dataset:https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
+## Sample Output of the model:
+![image](https://github.com/user-attachments/assets/6adc60c4-ce35-4693-8aec-82c15aa09b37)
+![image](https://github.com/user-attachments/assets/889be009-7506-4ab4-83ce-ba1af378234f)
+
+
 
    
 
