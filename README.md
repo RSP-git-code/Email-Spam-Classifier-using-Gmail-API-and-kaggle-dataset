@@ -33,7 +33,8 @@ A machine learning project to classify emails as **spam** or **ham** using real-
 1. Gmail API documenataion: https://developers.google.com/workspace/gmail/api/guides
 2. Kaggle dataset:https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
 ## Sample Output of the model:
-![image](https://github.com/user-attachments/assets/4691876b-c4b6-4627-baf1-fb3a248ac7df)
+![image](https://github.com/user-attachments/assets/ff25441e-f48f-4d75-aa42-5dcb4fb654f5)
+
 ![image](https://github.com/user-attachments/assets/2a33ea87-a8fb-4ef0-8743-df63280c4e9f)
 
 
