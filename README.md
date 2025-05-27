@@ -20,7 +20,7 @@ A machine learning project to classify emails as **spam** or **ham** using real-
 5. Next step , Provide test subjects from which you are acessing the email cause gmail wont let you access just anyone email so for that give your email in test subject option and it will permit to  access your emails .Otherwise it will not permit and authentication section fails
 6. Run the script to authenticate and fetch emails.
 7. Place `mail_data.csv` (Kaggle dataset) in the same directory.
-8. 
+
 ##  Requirements
 1. Use jupyter notebook or tensorflow for faster processing
 2. Download required libraries :
