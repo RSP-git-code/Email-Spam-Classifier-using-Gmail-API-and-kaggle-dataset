@@ -34,8 +34,10 @@ A machine learning project to classify emails as **spam** or **ham** using real-
 2. Kaggle dataset:https://www.kaggle.com/datasets/shantanudhakadd/email-spam-detection-dataset-classification
 ## Sample Output of the model:
 ![image](https://github.com/user-attachments/assets/ff25441e-f48f-4d75-aa42-5dcb4fb654f5)
+![image](https://github.com/user-attachments/assets/2b8ee6b4-e899-4892-8fad-cc9eee5dc4ff)
 
-![image](https://github.com/user-attachments/assets/2a33ea87-a8fb-4ef0-8743-df63280c4e9f)
+
+
 
 
 
